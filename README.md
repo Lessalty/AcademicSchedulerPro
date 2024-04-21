@@ -41,7 +41,7 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## Authors
 
-- **Anh Khoa Nguyen** - *Initial work* - [Lessalty](https://github.com/Lessalty)
+- **Anh Khoa Nguyen**  - [Lessalty](https://github.com/Lessalty)
 
 
 
