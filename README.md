@@ -37,13 +37,13 @@ Please read `CONTRIBUTING.md` for details on our code of conduct, and the proces
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/your/repo/tags).
+For the versions available, see the [tags on this repository](https://github.com/Lessalty/AcademicSchedulerPro).
 
 ## Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/YourGitHub)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Lessalty)
 
-See also the list of [contributors](https://github.com/your/repo/contributors) who participated in this project.
+
 
 ## License
 
